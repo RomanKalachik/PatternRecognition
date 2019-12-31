@@ -6,3 +6,6 @@ Data used: MSFT 2500 daily candlesticks <br>
 Visualization library: SciChart 5.4.0
 
 ![](https://i.imgur.com/vviImn5.png)
+
+![](https://i.imgur.com/SyTUzXG.png)
+
